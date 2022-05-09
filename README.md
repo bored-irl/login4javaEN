@@ -1,4 +1,4 @@
-![](./login4java.png)
+![](./img/login4java.png)
 # Generale
 
 *Questo programma a come obbiettivo di sviluppare un algoritmo <br> per gestire gli accessi ai propri software tramite l’utilizzo di poche <br> righe di codice per implementare un manager di autenticazione*
@@ -13,12 +13,18 @@
 # Installazione e configurazione
 
 - *per prima cosa bisogna scaricare i file e metterli in una cartella nota: si può inserire i propri file del programma nella root della cartella contenente i file*
+<a href="https://github.com/AlessioSS/login4java/releases/tag/1.0">
+<img src="./img/login4java.svg">
+</a>
 - *creare l'oggetto nel proprio file con parametri vuoti*
 - *fatto richiamare i metodi citati sopra*
 
-<img src="./install.png" width=700>
+![](./img/install.png)
 
 # In arrivo
 - *reset della password*
 - *gestione dei permessi*
 - *pannello admin*
+
+
+[Visualizza la spiegazione del progetto](./user-man.md)
