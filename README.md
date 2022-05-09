@@ -14,7 +14,7 @@
 # Installazione e configurazione
 
 - *per prima cosa bisogna scaricare i file e metterli in una cartella nota: si può inserire i propri file del programma nella root della cartella contenente i file*
-<a href="https://github.com/AlessioSS/login4java/releases/tag/1.0">
+<a href="https://github.com/AlessioSS/login4java/releases">
 <img src="./img/login4java.svg">
 </a>
 - *creare l'oggetto nel proprio file con parametri vuoti*
