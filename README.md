@@ -1,4 +1,5 @@
-![](./img/login4java.png)
+<img src="./img/login4java.png">
+
 # Generale
 
 *Questo programma a come obbiettivo di sviluppare un algoritmo <br> per gestire gli accessi ai propri software tramite l’utilizzo di poche <br> righe di codice per implementare un manager di autenticazione*
