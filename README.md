@@ -17,6 +17,7 @@
 <a href="https://github.com/AlessioSS/login4java/releases">
 <img src="./img/login4java.svg">
 </a>
+
 - *creare l'oggetto nel proprio file con parametri vuoti*
 - *fatto richiamare i metodi citati sopra*
 
