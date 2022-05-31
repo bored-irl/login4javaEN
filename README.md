@@ -2,31 +2,31 @@
 
 # General
 
-*This program has the objective of developing an algorithm <br> to handle logins to your software by using a few <br> lines of code to implement an authenticator manager*
+*This program has the objective of developing an algorithm <br> to handle logins to your software by using a few <br> lines of code to implement an authenticator manager* 
 
-# Funcions
+# Functions
 
-- *`setup()`: Executes the setup of the application crwating all the *
-- *`singup()`: esegue la registrazine del utente secondo i config*
-- *`loadConfig()`: carica i config da file (questa operazione viene eseguita da setup) in caso contrario può essere eseguita manualmente richiamando il metodo*
-- *`sigin(email, password)`: esegue il login passandoli email, password e ritorna: "notacces"(in caso di login errato o utente inesistente) o "ok" come conferma*
+- *`setup()`: Executes the setup of the application creating all the settings (if the program is executed and a configuration file already exists the original config file gets loaded with its own settings*
+- *`singup()`: Executes the registration of the user based on the config*
+- *`loadConfig()`: Loads the config from the file (this operation is executed from the setup) if not it can be manually executed by calling its method *
+- *`sigin(email, password)`: Executes the login passing email and password as its parameters. Returns "notaccess" in case of wring login info or not-existing user or "ok" if the login happens with success*
 
-# Installazione e configurazione
+# Installation and Configuration
 
-- *per prima cosa bisogna scaricare i file e metterli in una cartella nota: si può inserire i propri file del programma nella root della cartella contenente i file*
+- *In the first stepllfiles must be downloaded and pt in a known folder: you can move your own program files in the root of the folder containing files*
 <a href="https://github.com/AlessioSS/login4java/releases">
 <img src="./img/login4java.svg">
 </a>
 
-- *creare l'oggetto nel proprio file con parametri vuoti*
-- *fatto richiamare i metodi citati sopra*
+- *Create the object in your own file with empty parameters*
+- *Recall with the methods cited above*
 
 ![](./img/install.png)
 
-# In arrivo
-- *reset della password*
-- *gestione dei permessi*
-- *pannello admin*
+# Incoming features
+- *Password Reset*
+- *Handling of permissions*
+- *Admin control panel*
 
 
 [Visualizza la spiegazione del progetto](./user-man.md)
