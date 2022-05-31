@@ -1,12 +1,12 @@
 <img src="./img/login4java.png">
 
-# Generale
+# General
 
-*Questo programma a come obbiettivo di sviluppare un algoritmo <br> per gestire gli accessi ai propri software tramite l’utilizzo di poche <br> righe di codice per implementare un manager di autenticazione*
+*This program has the objective of developing an algorithm <br> to handle logins to your software by using a few <br> lines of code to implement an authenticator manager*
 
-# Funzioni
+# Funcions
 
-- *`setup()`: esegue il setup del applicazione creando i vari settaggi (se viene eseguito e esiste già un file di confiurazione carica il file e le relative impostazioni).*
+- *`setup()`: Executes the setup of the application crwating all the *
 - *`singup()`: esegue la registrazine del utente secondo i config*
 - *`loadConfig()`: carica i config da file (questa operazione viene eseguita da setup) in caso contrario può essere eseguita manualmente richiamando il metodo*
 - *`sigin(email, password)`: esegue il login passandoli email, password e ritorna: "notacces"(in caso di login errato o utente inesistente) o "ok" come conferma*
