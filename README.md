@@ -13,7 +13,7 @@
 
 # Installation and Configuration
 
-- *In the first stepllfiles must be downloaded and pt in a known folder: you can move your own program files in the root of the folder containing files*
+- *In the first step all files must be downloaded and pt in a known folder: you can move your own program files in the root of the folder containing files*
 <a href="https://github.com/AlessioSS/login4java/releases">
 <img src="./img/login4java.svg">
 </a>
