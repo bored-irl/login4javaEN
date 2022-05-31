@@ -29,4 +29,4 @@
 - *Admin control panel*
 
 
-[Visualizza la spiegazione del progetto](./user-man.md)
+[View the explanation of the project](./user-man.md)
